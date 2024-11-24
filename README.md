@@ -2,13 +2,6 @@
 
 Thank you for following along on the EVPN Blog post series on <https://mikelossmann.me>. This is the repository for the blog and video series! Every time a new blog post and YouTube video is uploaded this repo will be updated to reflect the starting configuratino and the ending configuation for that post and video.
 
-## Physical Topology
-
-Below is the physical topology of the lab.
-![Image of Lab](Diagrams/EVPN-Diagram-Blog.png "Lab Physical Topology")
-
-Each lab will have its own topology as well as the tasks to accomplish on each page.
-
 ## Lab Basics
 
 - This lab is built in eve-ng, I have provided a topology file which is in /Configurations/EVPN Lab - Base Configuration.zip
