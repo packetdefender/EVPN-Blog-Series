@@ -4,9 +4,10 @@ Thank you for following along on the EVPN Blog post series on <https://mikelossm
 
 ## Lab Basics
 
+> [!IMPORTANT]
+> I will _NOT_ supply any of the networking device images used. You must use images that you are licensed to use.
+
 - This lab is built in eve-ng, I have provided a topology file which is in /Configurations/EVPN Lab - Base Configuration.zip
-  [!IMPORTANT]
-- I will _NOT_ supply any of the networking device images used. You must use images that you are licensed to use.
 - The credentials for the devices are all the same
   - username: _admin_
   - password: P@55w0rd!
