@@ -20,7 +20,7 @@ Thank you for following along on the EVPN Blog post series on <https://mikelossm
 
 |      Lab       | Blog Link | YouTube Video Link |
 | :------------: | :-------: | :----------------: |
-|      OSPF      |           |                    |
-|   Multicast    |           |                    |
-|      BGP       |           |                    |
-| VxLAN and EVPN |           |                    |
+|[OSPF](/Configurations/OSPF/README.md)      |           |                    |
+|[Multicast](/Configurations/Multicast/README.md)  |           |                    |
+|[BGP](/Configurations/BGP/README.md)        |           |                    |
+|[VXLAN-and-EVPN](/Configurations/VXLAN-and-EVPN/README.md)  |           |                    |
