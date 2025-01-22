@@ -13,14 +13,15 @@ Thank you for following along on the EVPN Blog post series on <https://mikelossm
   - username: _admin_
   - password: P@55w0rd!
 - Management interface are set for DHCP and are in the _management_ VRF
+- There is a file at the root of this folder called [IPAddresses.csv](/IPaddresses.csv) where I have all the addresses for this lab.
 - The Linux image that I have used is located here: <https://bit.ly/3V4lGNG>
   - The username is root and the password is eve
 
 ## Lab Sections, with links to Youtube / Blog
 
-|      Lab       | Blog Link | YouTube Video Link |
-| :------------: | :-------: | :----------------: |
-|[OSPF](/Configurations/OSPF/README.md)      |           |                    |
-|[Multicast](/Configurations/Multicast/README.md)  |           |                    |
-|[BGP](/Configurations/BGP/README.md)        |           |                    |
-|[VXLAN-and-EVPN](/Configurations/VXLAN-and-EVPN/README.md)  |           |                    |
+|      Lab       | Blog Link |
+| :------------: | :-------: |
+|[OSPF](/Configurations/OSPF/README.md)      |           |
+|[Multicast](/Configurations/Multicast/README.md)  |           |
+|[BGP](/Configurations/BGP/README.md)        |           |
+|[VXLAN-and-EVPN](/Configurations/VXLAN-and-EVPN/README.md)  |           |

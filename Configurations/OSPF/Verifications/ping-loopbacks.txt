@@ -1,0 +1,22 @@
+Leaf-01# ping 10.1.0.9 source-interface loopback10
+PING 10.1.0.9 (10.1.0.9): 56 data bytes
+64 bytes from 10.1.0.9: icmp_seq=0 ttl=253 time=7.477 ms
+64 bytes from 10.1.0.9: icmp_seq=1 ttl=253 time=6.335 ms
+64 bytes from 10.1.0.9: icmp_seq=2 ttl=253 time=4.782 ms
+64 bytes from 10.1.0.9: icmp_seq=3 ttl=253 time=4.337 ms
+64 bytes from 10.1.0.9: icmp_seq=4 ttl=253 time=4.442 ms
+
+--- 10.1.0.9 ping statistics ---
+5 packets transmitted, 5 packets received, 0.00% packet loss
+round-trip min/avg/max = 4.337/5.474/7.477 ms
+Leaf-01# ping 10.10.10.9 source-interface loopback10
+PING 10.10.10.9 (10.10.10.9): 56 data bytes
+64 bytes from 10.10.10.9: icmp_seq=0 ttl=253 time=5.247 ms
+64 bytes from 10.10.10.9: icmp_seq=1 ttl=253 time=5.11 ms
+64 bytes from 10.10.10.9: icmp_seq=2 ttl=253 time=7.122 ms
+64 bytes from 10.10.10.9: icmp_seq=3 ttl=253 time=4.801 ms
+64 bytes from 10.10.10.9: icmp_seq=4 ttl=253 time=4.697 ms
+
+--- 10.10.10.9 ping statistics ---
+5 packets transmitted, 5 packets received, 0.00% packet loss
+round-trip min/avg/max = 4.697/5.395/7.122 ms

@@ -1,0 +1,6 @@
+Leaf-01# show ip ospf neighbor
+ OSPF Process ID UNDERLAY VRF default
+ Total number of neighbors: 2
+ Neighbor ID     Pri State            Up Time  Address         Interface
+ 10.1.0.1          1 FULL/ -          00:02:34 10.0.0.1        Eth1/1
+ 10.1.0.2          1 FULL/ -          00:02:42 10.0.0.29       Eth1/2

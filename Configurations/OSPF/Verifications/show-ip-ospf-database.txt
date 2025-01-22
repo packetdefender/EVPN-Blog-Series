@@ -1,0 +1,15 @@
+Leaf-01# show ip ospf database
+        OSPF Router with ID (10.1.0.3) (Process ID UNDERLAY VRF default)
+
+                Router Link States (Area 0.0.0.0)
+
+Link ID         ADV Router      Age        Seq#       Checksum Link Count
+10.1.0.1        10.1.0.1        226        0x80000004 0x3d1a   16
+10.1.0.2        10.1.0.2        234        0x80000004 0xf8d0   16
+10.1.0.3        10.1.0.3        230        0x80000004 0xc3da   6
+10.1.0.4        10.1.0.4        232        0x80000004 0x1674   6
+10.1.0.5        10.1.0.5        232        0x80000004 0x680e   6
+10.1.0.6        10.1.0.6        232        0x80000004 0xbaa7   6
+10.1.0.7        10.1.0.7        232        0x80000004 0x0d41   6
+10.1.0.8        10.1.0.8        232        0x80000004 0x5fda   6
+10.1.0.9        10.1.0.9        232        0x80000004 0xb174   6

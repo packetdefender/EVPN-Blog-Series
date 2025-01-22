@@ -1,0 +1,2 @@
+Leaf-01# show ip route ospf | count
+75
