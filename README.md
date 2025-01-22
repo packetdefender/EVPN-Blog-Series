@@ -17,7 +17,7 @@ Thank you for following along on the EVPN Blog post series on <https://mikelossm
 - The Linux image that I have used is located here: <https://bit.ly/3V4lGNG>
   - The username is root and the password is eve
 
-## Lab Sections, with links to Youtube / Blog
+## Lab Sections, with links to Blog
 
 |      Lab       | Blog Link |
 | :------------: | :-------: |
