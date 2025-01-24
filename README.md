@@ -21,7 +21,7 @@ Thank you for following along on the EVPN Blog post series on <https://mikelossm
 
 |      Lab       | Blog Link |
 | :------------: | :-------: |
-|[OSPF](/Configurations/OSPF/README.md)      |           |
+|[OSPF](/Configurations/OSPF/README.md)      |   <https://bit.ly/4juIW20>        |
 |[Multicast](/Configurations/Multicast/README.md)  |           |
 |[BGP](/Configurations/BGP/README.md)        |           |
 |[VXLAN-and-EVPN](/Configurations/VXLAN-and-EVPN/README.md)  |           |
