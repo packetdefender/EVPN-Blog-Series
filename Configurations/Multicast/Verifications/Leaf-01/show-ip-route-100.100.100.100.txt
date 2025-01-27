@@ -1,0 +1,10 @@
+Leaf-01# show ip route 100.100.100.100
+IP Route Table for VRF "default"
+'*' denotes best ucast next-hop
+'**' denotes best mcast next-hop
+'[x/y]' denotes [preference/metric]
+'%<string>' in via output denotes VRF <string>
+
+100.100.100.100/32, ubest/mbest: 2/0
+    *via 10.0.0.1, Eth1/1, [110/41], 00:06:58, ospf-UNDERLAY, intra
+    *via 10.0.0.29, Eth1/2, [110/41], 00:06:57, ospf-UNDERLAY, intra

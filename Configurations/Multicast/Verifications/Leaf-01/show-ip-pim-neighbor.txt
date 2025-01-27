@@ -1,0 +1,6 @@
+Leaf-01# show ip pim neighbor
+PIM Neighbor Status for VRF "default"
+Neighbor        Interface            Uptime    Expires   DR       Bidir-  BFD    ECMP Redirect
+                                                         Priority Capable State  Capable
+10.0.0.1        Ethernet1/1          00:04:53  00:01:38  1        yes     n/a    no
+10.0.0.29       Ethernet1/2          00:04:52  00:01:37  1        yes     n/a    no

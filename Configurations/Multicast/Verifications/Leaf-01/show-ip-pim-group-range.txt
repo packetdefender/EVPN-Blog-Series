@@ -1,0 +1,5 @@
+Leaf-01# show ip pim group-range 225.0.0.0
+PIM Group-Range Configuration for VRF "default"
+Group-range        Action Mode  RP-address      Shared-tree-range Origin
+
+225.0.0.0/8        -      ASM   100.100.100.100 -                 Static

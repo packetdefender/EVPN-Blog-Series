@@ -1,0 +1,18 @@
+Spine-01# show ip pim rp
+PIM RP Status Information for VRF "default"
+BSR: Not Operational
+Auto-RP disabled
+BSR RP Candidate policy: None
+BSR RP policy: None
+Auto-RP Announce policy: None
+Auto-RP Discovery policy: None
+
+Anycast-RP 100.100.100.100 members:
+  10.1.0.1*  10.1.0.2
+
+RP: 100.100.100.100*, (0),
+ uptime: 00:02:53   priority: 255,
+ RP-source: (local), Null-Register Packing disabled
+
+ group ranges:
+ 225.0.0.0/8
