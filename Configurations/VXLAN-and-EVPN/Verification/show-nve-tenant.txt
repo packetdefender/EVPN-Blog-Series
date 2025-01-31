@@ -1,0 +1,14 @@
+Leaf-01# show nve vrf TENANT_RED
+VRF-Name     VNI        Interface Gateway-MAC
+------------ ---------- --------- -----------------
+TENANT_RED   32000      nve1      5003.0000.1b08
+
+Leaf-01# show nve vrf TENANT_GREEN
+VRF-Name     VNI        Interface Gateway-MAC
+------------ ---------- --------- -----------------
+TENANT_GREEN 34500      nve1      5003.0000.1b08
+
+Leaf-01# show nve vrf TENANT_BLUE
+VRF-Name     VNI        Interface Gateway-MAC
+------------ ---------- --------- -----------------
+TENANT_BLUE  32500      nve1      5003.0000.1b08

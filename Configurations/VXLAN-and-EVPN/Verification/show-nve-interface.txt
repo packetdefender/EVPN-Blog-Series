@@ -1,0 +1,6 @@
+Leaf-01# show nve interface
+Interface: nve1, State: Up, encapsulation: VXLAN
+ VPC Capability: VPC-VIP-Only [not-notified]
+ Local Router MAC: 5003.0000.1b08
+ Host Learning Mode: Control-Plane
+ Source-Interface: loopback20 (primary: 10.10.10.3, secondary: 0.0.0.0)

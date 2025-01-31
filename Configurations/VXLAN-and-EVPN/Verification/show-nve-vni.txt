@@ -1,0 +1,17 @@
+Leaf-01# show nve vni
+Codes: CP - Control Plane        DP - Data Plane
+       UC - Unconfigured         SA - Suppress ARP
+       S-ND - Suppress ND
+       SU - Suppress Unknown Unicast
+       Xconn - Crossconnect
+       MS-IR - Multisite Ingress Replication
+       HYB - Hybrid IRB mode
+
+Interface VNI      Multicast-group   State Mode Type [BD/VRF]      Flags
+--------- -------- ----------------- ----- ---- ------------------ -----
+nve1      21000    225.1.0.100       Up    CP   L2 [100]           SA
+nve1      21500    225.1.0.150       Up    CP   L2 [150]           SA
+nve1      23500    225.1.1.150       Up    CP   L2 [350]           SA
+nve1      32000    n/a               Up    CP   L3 [TENANT_RED]
+nve1      32500    n/a               Up    CP   L3 [TENANT_BLUE]
+nve1      34500    n/a               Up    CP   L3 [TENANT_GREEN]

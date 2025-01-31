@@ -24,4 +24,4 @@ Thank you for following along on the EVPN Blog post series on <https://mikelossm
 |[OSPF](/Configurations/OSPF/README.md)      |   <https://bit.ly/4juIW20>        |
 |[Multicast](/Configurations/Multicast/README.md)  |  <https://bit.ly/40KMFRQ>         |
 |[BGP](/Configurations/BGP/README.md)        | <https://bit.ly/4hCEFrQ>          |
-|[VXLAN-and-EVPN](/Configurations/VXLAN-and-EVPN/README.md)  |           |
+|[VXLAN-and-EVPN](/Configurations/VXLAN-and-EVPN/README.md)  |  <https://bit.ly/4ghyAzH>         |

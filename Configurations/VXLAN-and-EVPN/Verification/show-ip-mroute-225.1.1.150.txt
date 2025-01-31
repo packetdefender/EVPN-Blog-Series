@@ -1,0 +1,14 @@
+Leaf-01# show ip mroute 225.1.1.150
+IP Multicast Routing Table for VRF "default"
+
+(*, 225.1.1.150/32), uptime: 00:07:38, nve ip pim
+  Incoming interface: Ethernet1/2, RPF nbr: 10.0.0.29
+  Outgoing interface list: (count: 1)
+    nve1, uptime: 00:07:38, nve
+
+
+(10.10.10.3/32, 225.1.1.150/32), uptime: 00:07:38, nve mrib ip pim
+  Incoming interface: loopback20, RPF nbr: 10.10.10.3
+  Outgoing interface list: (count: 2)
+    Ethernet1/2, uptime: 00:06:59, pim
+    Ethernet1/1, uptime: 00:06:59, pim
